@@ -1,3 +1,5 @@
 # Registration-system
-That's a app, in portuguese, that is similar to a register system where you archive people infos, so you can change the names and make this yours
-I hope you all enjoy my code, good bye =)
+MADE A LONG TIME AGO) //obs.: This project is out to date. It was developed almost three years ago. I improved a lot as a python developer. Therefore, this code it's for personal comparison.
+
+This is a app is similar to a management system where you archive people infos.
+
